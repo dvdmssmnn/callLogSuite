@@ -1,0 +1,9 @@
+[submodule "Analyzer"]
+	path = Analyzer
+	url = https://github.com/dvdmssmnn/Analyzer
+[submodule "callLog"]
+	path = callLog
+	url = https://github.com/dvdmssmnn/callLog
+[submodule "CodeGenerator"]
+	path = CodeGenerator
+	url = https://github.com/dvdmssmnn/CodeGenerator
